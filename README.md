@@ -1,4 +1,5 @@
 ✈️ SkyPath – Smart Flight Route Scheduler
+
 SkyPath is an intelligent flight route planning app built with Streamlit. It helps users find the shortest flight paths between airports, predict delays using machine learning, and manage trip data, all in a sleek and user-friendly interface.
 
 Features
@@ -20,4 +21,5 @@ The delay predictor is trained on synthetic flight data using linear regression 
 
 License
 This project is licensed under the MIT License — feel free to use, modify, and share it.
+
 
